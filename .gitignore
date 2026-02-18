@@ -1,7 +1,0 @@
-# Ignorer l'environnement virtuel
-backend/venv/
-*.pyc
-__pycache__/
-# Fichiers sensibles et logs
-backend/.env
-backend/logs/
